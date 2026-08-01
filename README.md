@@ -110,6 +110,11 @@ When a salesperson takes control:
 
 This prevents the AI layer from becoming a closed system and keeps the sales team responsible for sensitive or commercially important interactions.
 
+## Technical documentation
+
+- [System architecture](docs/architecture.md)
+- [AI-assisted engineering workflow](docs/ai-workflow.md)
+
 ## Technology stack
 
 - Cloudflare Workers
